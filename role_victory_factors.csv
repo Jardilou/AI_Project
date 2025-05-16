@@ -1,0 +1,26 @@
+role,feature,importance,effect,optimal_range
+Top,kda,2.4473202,négatif,< 0.83
+Top,kill_participation,0.78544664,négatif,< 0.38
+Top,gold_earned,0.70945406,négatif,< 10218.00
+Top,player_assists,0.54894644,négatif,< 2.00
+Top,total_damage_taken,0.3848619,positif,> 29188.00
+Bot,kda,2.7491834,négatif,< 1.20
+Bot,gold_earned,0.818265,négatif,< 11444.00
+Bot,kill_participation,0.6502741,positif,> 0.73
+Bot,total_minions_killed,0.46292531,positif,> 332.00
+Bot,player_assists,0.45656157,négatif,< 2.00
+Support,kda,2.050053,négatif,< 1.00
+Support,gold_earned,1.0380347,négatif,< 6585.00
+Support,player_assists,0.8611289,négatif,< 5.00
+Support,wards_placed,0.7662,positif,> 60.00
+Support,kill_participation,0.68442756,négatif,< 0.52
+Mid,kda,2.5989795,négatif,< 1.17
+Mid,gold_earned,0.7336897,négatif,< 10808.00
+Mid,kill_participation,0.70186126,positif,> 0.71
+Mid,player_assists,0.49813572,négatif,< 3.00
+Mid,total_minions_killed,0.4603989,positif,> 304.00
+Jungle,kda,2.729618,négatif,< 1.14
+Jungle,kill_participation,0.69073415,négatif,< 0.55
+Jungle,gold_earned,0.6261789,négatif,< 9238.00
+Jungle,player_assists,0.6043023,négatif,< 4.00
+Jungle,wards_placed,0.35129717,positif,> 15.00
